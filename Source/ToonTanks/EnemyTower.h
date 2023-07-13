@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "BasePawn.h"
-#include "../../../../../../../../Program Files/Epic Games/UE_5.1/Engine/Platforms/Hololens/Source/Runtime/Core/Public/Microsoft/AllowMicrosoftPlatformTypesPrivate.h"
+#include "../../../../../../../../Program Files/Epic Games/UE_5.2/Engine/Platforms/Hololens/Source/Runtime/Core/Public/Microsoft/AllowMicrosoftPlatformTypesPrivate.h"
 #include "EnemyTower.generated.h"
 
 /**
